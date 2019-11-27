@@ -4,7 +4,7 @@
     "server_port": 8388,
     "local_address": "127.0.0.1",
     "local_port": 1080,
-
+    "mode": "tcp_and_udp",
     "password": "m",
     "timeout": 120,
     "udp_timeout": 60,
