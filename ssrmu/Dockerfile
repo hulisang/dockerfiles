@@ -1,5 +1,4 @@
-FROM alpine:3.9
-MAINTAINER FAN VINGA<fanalcest@gmail.com>
+FROM alpine:3.10
 
 ENV NODE_ID=0                     \
     DNS_1=1.0.0.1                 \
